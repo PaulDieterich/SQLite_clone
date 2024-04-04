@@ -1,0 +1,3 @@
+/home/pjd/Documents/SQLite_clone/cmake-build-debug/CMakeFiles/SQLite_clone.dir
+/home/pjd/Documents/SQLite_clone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pjd/Documents/SQLite_clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
