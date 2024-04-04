@@ -1,4 +1,4 @@
-#include "InputBuffer.h"
+#include "inputBuffer.h"
 
 
 InputBuffer* newInputBuffer(){
